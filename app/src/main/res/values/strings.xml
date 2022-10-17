@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Juara Compose Component Quadrant</string>
+
+    <string-array name="title">
+        <item>Text composable</item>
+        <item>Image composable</item>
+        <item>Row composable</item>
+        <item>Column composable</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Displays text and follows Material Design guidelines.</item>
+        <item>Creates a composable that lays out and draws a given Painter class object.</item>
+        <item>A layout composable that places its children in a horizontal sequence.</item>
+        <item>A layout composable that places its children in a vertical sequence.</item>
+    </string-array>
+</resources>
